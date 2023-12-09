@@ -1,0 +1,9 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
+h1{
+    color: red;
+    font: size 400px;
+    font-family:Ephesis;
+    font-style:italic;
+}
