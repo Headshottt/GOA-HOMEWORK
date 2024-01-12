@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: grey;
+}
+h3 {
+    text-align: center;
+    ;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+}
+div {
+    text-align: right;
+    padding: 10px 20px; 
+}
+
+
+
+    
