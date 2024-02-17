@@ -1,0 +1,28 @@
+img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    background-color: black;
+}
+
+nav{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 25px;
+    font-family: sans-serif;  
+}
+img{
+    margin: 20px;
+    margin-left: 100px;
+}
